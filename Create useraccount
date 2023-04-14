@@ -1,0 +1,8 @@
+
+net user USER_NAME PASSWORD /add
+
+net localgroup administrators USER_ACCOUNT /add
+
+ 
+
+
